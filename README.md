@@ -42,7 +42,7 @@
 ---
 
 ## Information
-> Alpahbot-Md adalah bot yang memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a [Baileys](https://github.com/adiwajshing/baileys) library.
+> Akira adalah bot yang memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a [Baileys](https://github.com/adiwajshing/baileys) library.
 
 ## Support Language
 
